@@ -15,3 +15,7 @@ Added line6 by feature branch for Merge Conflicts
 Added line7 by feature branch
 
 Added line8 by feature branch
+
+Added line9 by master branch
+
+Added line10 by feature branch
