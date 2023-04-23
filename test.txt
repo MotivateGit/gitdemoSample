@@ -5,3 +5,5 @@ Added new line by master branch
 Added line 2 by feature branch
 
 Added line3 by feature branch
+
+Added line4 by someone from dev team
