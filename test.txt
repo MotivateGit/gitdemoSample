@@ -3,3 +3,5 @@ this is my second line
 this is third line from feature branch
 Added new line by master branch
 Added line 2 by feature branch
+
+Added line3 by feature branch
