@@ -11,3 +11,5 @@ Added line4 by someone from dev team
 Added line5 by someone from Mainframe team by child branch
 
 Added line6 by feature branch for Merge Conflicts
+
+Added line7 by feature branch
