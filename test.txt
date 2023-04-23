@@ -19,3 +19,5 @@ Added line8 by feature branch
 Added line9 by master branch
 
 Added line10 by feature branch
+
+Changes done in the dummy branch
